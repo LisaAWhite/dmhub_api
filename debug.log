@@ -1,0 +1,422 @@
+{"level":"info","message":"An informational message"}
+{"level":"error","message":"An error message"}
+{"level":"info","message":"An informational message"}
+{"level":"error","message":"An error message"}
+2024-11-23T01:48:24.351Z [index.js] info: An informational message
+2024-11-23T01:48:24.354Z [index.js] error: An error message
+2024-11-23T01:51:46.565Z [index.js] info: An informational message
+2024-11-23T01:51:46.568Z [index.js] error: An error message
+2024-11-23T01:53:04.948Z [index.js] info: An informational message
+2024-11-23T01:53:04.951Z [index.js] error: An error message
+2024-11-23T01:55:29.655Z [index.js] info: An informational message
+2024-11-23T01:55:29.658Z [index.js] error: An error message
+2024-11-23T01:57:17.287Z [index.js] info: An informational message
+2024-11-23T01:57:17.290Z [index.js] error: An error message
+2024-11-23T01:59:46.845Z [index.js] info: An informational message
+2024-11-23T01:59:46.850Z [index.js] error: An error message
+2024-11-23T01:59:49.999Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-23T01:59:50.000Z [index.js] info: CachedGameData not found, fetching from database
+2024-11-23T01:59:50.556Z [index.js] info: Game data fetched and cached
+2024-11-23T02:00:39.898Z [index.js] info: An informational message
+2024-11-23T02:00:39.901Z [index.js] error: An error message
+2024-11-23T02:01:27.500Z [index.js] info: An informational message
+2024-11-23T02:01:27.504Z [index.js] error: An error message
+2024-11-23T02:03:28.010Z [index.js] info: An informational message
+2024-11-23T02:03:28.013Z [index.js] error: An error message
+2024-11-23T02:26:14.171Z [index.js] info: An informational message
+2024-11-23T02:26:14.173Z [index.js] error: An error message
+2024-11-26T22:05:49.984Z [index.js] info: An informational message
+2024-11-26T22:05:49.987Z [index.js] error: An error message
+2024-11-27T00:58:59.364Z [index.js] info: An informational message
+2024-11-27T00:58:59.367Z [index.js] error: An error message
+2024-11-27T01:06:09.589Z [index.js] info: An informational message
+2024-11-27T01:06:09.592Z [index.js] error: An error message
+2024-11-27T20:11:42.673Z [index.js] info: An informational message
+2024-11-27T20:11:42.676Z [index.js] error: An error message
+2024-11-27T20:11:47.627Z [index.js] info: An informational message
+2024-11-27T20:11:47.631Z [index.js] error: An error message
+2024-11-27T20:13:38.025Z [index.js] info: An informational message
+2024-11-27T20:13:38.028Z [index.js] error: An error message
+2024-11-27T20:14:21.554Z [index.js] info: An informational message
+2024-11-27T20:14:21.557Z [index.js] error: An error message
+2024-11-27T20:33:50.604Z [index.js] info: An informational message
+2024-11-27T20:33:50.607Z [index.js] error: An error message
+2024-11-27T20:33:50.610Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:05:13.955Z [index.js] info: An informational message
+2024-11-27T21:05:13.963Z [index.js] error: An error message
+2024-11-27T21:05:13.967Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:06:04.882Z [index.js] info: An informational message
+2024-11-27T21:06:04.884Z [index.js] error: An error message
+2024-11-27T21:06:04.888Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:06:08.279Z [index.js] info: CachedGameData not found
+2024-11-27T21:06:35.788Z [index.js] info: An informational message
+2024-11-27T21:06:35.790Z [index.js] error: An error message
+2024-11-27T21:06:35.794Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:06:37.538Z [index.js] info: An informational message
+2024-11-27T21:06:37.540Z [index.js] error: An error message
+2024-11-27T21:06:37.544Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:06:39.181Z [index.js] info: An informational message
+2024-11-27T21:06:39.184Z [index.js] error: An error message
+2024-11-27T21:06:39.187Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:06:41.285Z [index.js] info: An informational message
+2024-11-27T21:06:41.288Z [index.js] error: An error message
+2024-11-27T21:06:41.293Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:06:43.783Z [index.js] info: CachedGameData not found
+2024-11-27T21:06:43.787Z [index.js] info: CachedGameData not found, fetching game data for game ID:
+2024-11-27T21:06:44.494Z [index.js] info: GameData fetched and cached
+2024-11-27T21:09:13.873Z [index.js] info: An informational message
+2024-11-27T21:09:13.876Z [index.js] error: An error message
+2024-11-27T21:09:13.880Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:09:27.313Z [index.js] info: An informational message
+2024-11-27T21:09:27.317Z [index.js] error: An error message
+2024-11-27T21:09:27.320Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:09:31.936Z [index.js] info: CachedGameData not found
+2024-11-27T21:09:31.937Z [index.js] info: CachedGameData not found, fetching game data for game ID:
+2024-11-27T21:09:32.518Z [index.js] info: GameData fetched and cached
+2024-11-27T21:09:38.716Z [index.js] info: CachedGameData found
+2024-11-27T21:10:35.694Z [index.js] info: An informational message
+2024-11-27T21:10:35.696Z [index.js] error: An error message
+2024-11-27T21:10:35.700Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:10:37.871Z [index.js] info: Fetching game data for game ID:
+2024-11-27T21:10:37.879Z [index.js] info: CachedGameData not found
+2024-11-27T21:10:37.880Z [index.js] info: CachedGameData not found, fetching game data for game ID:
+2024-11-27T21:10:38.429Z [index.js] info: GameData fetched and cached
+2024-11-27T21:10:42.809Z [index.js] info: Fetching game data for game ID:
+2024-11-27T21:10:42.811Z [index.js] info: CachedGameData found
+2024-11-27T21:13:15.542Z [index.js] info: An informational message
+2024-11-27T21:13:15.545Z [index.js] error: An error message
+2024-11-27T21:13:15.548Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:13:29.832Z [index.js] info: Fetching game data for game ID:
+2024-11-27T21:13:29.837Z [index.js] info: CachedGameData not found
+2024-11-27T21:13:29.838Z [index.js] info: CachedGameData not found, fetching game data for game ID:
+2024-11-27T21:13:30.468Z [index.js] info: GameData fetched and cached
+2024-11-27T21:13:39.609Z [index.js] info: Fetching game data for game ID:
+2024-11-27T21:13:39.612Z [index.js] info: CachedGameData found
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+[object Object]
+2024-11-27T21:14:26.693Z [index.js] info: An informational message
+2024-11-27T21:14:26.695Z [index.js] error: An error message
+2024-11-27T21:14:26.699Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:14:29.418Z [index.js] info: Fetching game data for game ID:
+2024-11-27T21:14:29.429Z [index.js] info: CachedGameData not found
+2024-11-27T21:14:29.431Z [index.js] info: CachedGameData not found, fetching game data for game ID:
+2024-11-27T21:14:29.922Z [index.js] info: GameData fetched and cached
+2024-11-27T21:14:32.454Z [index.js] info: Fetching game data for game ID:
+2024-11-27T21:14:32.459Z [index.js] info: CachedGameData found
+2024-11-27T21:15:10.079Z [index.js] info: An informational message
+2024-11-27T21:15:10.082Z [index.js] error: An error message
+2024-11-27T21:15:10.086Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:15:12.492Z [index.js] info: Fetching game data for game ID:
+2024-11-27T21:15:12.502Z [index.js] info: CachedGameData not found
+2024-11-27T21:15:12.503Z [index.js] info: CachedGameData not found, fetching game data for game ID:
+2024-11-27T21:15:13.105Z [index.js] info: GameData fetched and cached
+2024-11-27T21:15:18.278Z [index.js] info: Fetching game data for game ID:
+2024-11-27T21:15:18.280Z [index.js] info: CachedGameData found
+2024-11-27T21:16:17.316Z [index.js] info: An informational message
+2024-11-27T21:16:17.319Z [index.js] error: An error message
+2024-11-27T21:16:17.323Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:21:54.768Z [index.js] info: An informational message
+2024-11-27T21:21:54.771Z [index.js] error: An error message
+2024-11-27T21:21:54.775Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:22:01.843Z [index.js] info: Fetching game data for game ID:
+2024-11-27T21:22:01.854Z [index.js] info: CachedGameData not found
+2024-11-27T21:22:01.855Z [index.js] info: CachedGameData not found, fetching game data for game ID:
+2024-11-27T21:22:02.543Z [index.js] info: GameData fetched and cached
+2024-11-27T21:22:31.889Z [index.js] info: An informational message
+2024-11-27T21:22:31.892Z [index.js] error: An error message
+2024-11-27T21:22:31.896Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:22:33.625Z [index.js] info: "Fetching game data for game ID: IrascibleNiftyResplendentWolf"
+2024-11-27T21:22:33.631Z [index.js] info: CachedGameData not found
+2024-11-27T21:22:33.632Z [index.js] info: CachedGameData not found, fetching game data for game ID:
+2024-11-27T21:22:34.156Z [index.js] info: GameData fetched and cached
+2024-11-27T21:23:00.759Z [index.js] info: An informational message
+2024-11-27T21:23:00.762Z [index.js] error: An error message
+2024-11-27T21:23:00.767Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:23:03.907Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-27T21:23:03.913Z [index.js] info: CachedGameData not found
+2024-11-27T21:23:03.914Z [index.js] info: CachedGameData not found, fetching game data for game ID:
+2024-11-27T21:23:04.424Z [index.js] info: GameData fetched and cached
+2024-11-27T21:24:11.953Z [index.js] info: An informational message
+2024-11-27T21:24:11.956Z [index.js] error: An error message
+2024-11-27T21:24:11.960Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:27:48.642Z [index.js] info: An informational message
+2024-11-27T21:27:48.645Z [index.js] error: An error message
+2024-11-27T21:27:48.649Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:28:29.633Z [index.js] info: An informational message
+2024-11-27T21:28:29.636Z [index.js] error: An error message
+2024-11-27T21:28:29.640Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:28:36.413Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-27T21:28:36.422Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf
+2024-11-27T21:28:36.423Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf, fetching gameData now.
+2024-11-27T21:28:37.031Z [index.js] info: GameData fetched and cached for IrascibleNiftyResplendentWolf
+2024-11-27T21:28:40.358Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-27T21:28:40.361Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-27T21:28:40.364Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-27T21:30:13.991Z [index.js] info: An informational message
+2024-11-27T21:30:13.994Z [index.js] error: An error message
+2024-11-27T21:30:13.997Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:39:55.819Z [index.js] info: An informational message
+2024-11-27T21:39:55.824Z [index.js] error: An error message
+2024-11-27T21:39:55.829Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:40:28.141Z [index.js] info: An informational message
+2024-11-27T21:40:28.144Z [index.js] error: An error message
+2024-11-27T21:40:28.148Z [index.js] info: Server is running on Port: 3000
+2024-11-27T21:54:01.662Z [index.js] info: Fetching game data for game ID: AngryViolentLungingFail
+2024-11-27T21:54:01.670Z [index.js] info: CachedGameData not found for AngryViolentLungingFail
+2024-11-27T21:54:01.670Z [index.js] info: CachedGameData not found for AngryViolentLungingFail, fetching gameData now.
+2024-11-27T21:54:02.450Z [index.js] info: GameData fetched and cached for AngryViolentLungingFail
+2024-11-27T22:02:57.527Z [index.js] info: Fetching game data for game ID: AngryViolentLungingFail
+2024-11-27T22:02:57.556Z [index.js] info: CachedGameData found AngryViolentLungingFail
+2024-11-27T22:02:57.558Z [index.js] info: CachedGameData found AngryViolentLungingFail
+2024-11-27T22:41:18.705Z [index.js] info: An informational message
+2024-11-27T22:41:18.710Z [index.js] error: An error message
+2024-11-27T22:41:18.714Z [index.js] info: Server is running on Port: 3000
+2024-11-27T22:41:27.742Z [index.js] info: An informational message
+2024-11-27T22:41:27.744Z [index.js] error: An error message
+2024-11-27T22:41:27.748Z [index.js] info: Server is running on Port: 3000
+2024-11-27T22:41:39.702Z [index.js] info: Server is running on Port: 3000
+2024-11-27T22:45:01.932Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:03:16.768Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:04:07.040Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:04:38.162Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:05:00.524Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:15:46.091Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:16:40.036Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:17:12.510Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:22:41.388Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:28:38.179Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:38:09.600Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:38:43.418Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:47:09.779Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:48:22.427Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:50:02.311Z [index.js] info: Server is running on Port: 3000
+2024-11-27T23:51:23.276Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:18:55.502Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:19:02.676Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-28T00:19:02.682Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf
+2024-11-28T00:19:02.683Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf, fetching gameData now.
+2024-11-28T00:19:03.327Z [index.js] info: GameData fetched and cached for IrascibleNiftyResplendentWolf
+2024-11-28T00:19:11.699Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:23:35.397Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:23:46.887Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:23:49.871Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-28T00:23:49.880Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf
+2024-11-28T00:23:49.881Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf, fetching gameData now.
+2024-11-28T00:23:50.435Z [index.js] info: GameData fetched and cached for IrascibleNiftyResplendentWolf
+2024-11-28T00:24:32.441Z [index.js] info: Fetching game data for game ID: AngryViolentLungingFail
+2024-11-28T00:24:32.444Z [index.js] info: CachedGameData not found for AngryViolentLungingFail
+2024-11-28T00:24:32.445Z [index.js] info: CachedGameData not found for AngryViolentLungingFail, fetching gameData now.
+2024-11-28T00:24:32.702Z [index.js] info: GameData fetched and cached for AngryViolentLungingFail
+2024-11-28T00:25:11.934Z [index.js] info: Fetching game data for game ID: AngryViolentLungingFail
+2024-11-28T00:25:11.957Z [index.js] info: CachedGameData found AngryViolentLungingFail
+2024-11-28T00:25:11.958Z [index.js] info: CachedGameData found AngryViolentLungingFail
+2024-11-28T00:25:49.831Z [index.js] info: Fetching game data for game ID: AngryViolentLungingFail
+2024-11-28T00:25:49.859Z [index.js] info: CachedGameData found AngryViolentLungingFail
+2024-11-28T00:25:49.860Z [index.js] info: CachedGameData found AngryViolentLungingFail
+2024-11-28T00:28:17.207Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:28:23.028Z [index.js] info: Fetching game data for game ID: AngryViolentLungingFail
+2024-11-28T00:28:23.034Z [index.js] info: CachedGameData not found for AngryViolentLungingFail
+2024-11-28T00:28:23.034Z [index.js] info: CachedGameData not found for AngryViolentLungingFail, fetching gameData now.
+2024-11-28T00:28:23.847Z [index.js] info: GameData fetched and cached for AngryViolentLungingFail
+2024-11-28T00:28:38.194Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:30:14.156Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:33:16.775Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:36:31.561Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:36:32.503Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:36:42.357Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:45:20.369Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:53:39.108Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:54:00.894Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:54:00.897Z [index.js] info: Cache checkperiod: 600
+2024-11-28T00:54:00.898Z [index.js] info: Cache stdTTL: 0
+2024-11-28T00:55:58.079Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:55:58.085Z [index.js] info: Cache checkperiod: 600
+2024-11-28T00:55:58.086Z [index.js] info: Cache stdTTL: 0
+2024-11-28T00:56:11.392Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:56:11.395Z [index.js] info: Cache checkperiod: 600
+2024-11-28T00:56:11.395Z [index.js] info: Cache stdTTL: 0
+2024-11-28T00:58:23.247Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:58:23.250Z [index.js] info: Cache checkperiod: 600
+2024-11-28T00:58:23.251Z [index.js] info: Cache stdTTL: 0
+2024-11-28T00:58:46.556Z [index.js] info: Server is running on Port: 3000
+2024-11-28T00:58:46.559Z [index.js] info: Cache checkperiod: 600
+2024-11-28T00:58:46.560Z [index.js] info: Cache stdTTL: 0
+2024-11-28T00:58:48.424Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-28T00:58:48.436Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf
+2024-11-28T00:58:48.437Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf, fetching gameData now.
+2024-11-28T00:58:49.024Z [index.js] info: GameData fetched and cached for IrascibleNiftyResplendentWolf
+2024-11-28T00:59:20.936Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-28T00:59:20.938Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-28T00:59:20.940Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-28T00:59:21.198Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-28T00:59:21.202Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-28T00:59:21.204Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-28T01:01:20.445Z [index.js] info: Fetching game data for game ID: AngryViolentLungingFail
+2024-11-28T01:01:20.446Z [index.js] info: CachedGameData not found for AngryViolentLungingFail
+2024-11-28T01:01:20.446Z [index.js] info: CachedGameData not found for AngryViolentLungingFail, fetching gameData now.
+2024-11-28T01:01:20.670Z [index.js] info: GameData fetched and cached for AngryViolentLungingFail
+2024-11-28T01:04:29.506Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-28T01:04:29.507Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-28T01:04:29.508Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-28T01:04:46.484Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:04:46.488Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:04:46.489Z [index.js] info: Cache stdTTL: 0
+2024-11-28T01:04:50.385Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:04:50.388Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:04:50.388Z [index.js] info: Cache stdTTL: 0
+2024-11-28T01:07:59.782Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:07:59.786Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:07:59.787Z [index.js] info: Cache stdTTL: 0
+2024-11-28T01:08:02.781Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:08:02.784Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:08:02.784Z [index.js] info: Cache stdTTL: 0
+2024-11-28T01:08:04.727Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:08:04.730Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:08:04.730Z [index.js] info: Cache stdTTL: 0
+2024-11-28T01:08:12.960Z [index.js] error: Invalid API token.
+2024-11-28T01:09:10.205Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:09:10.208Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:09:10.208Z [index.js] info: Cache stdTTL: 0
+2024-11-28T01:09:11.596Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:09:11.599Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:09:11.599Z [index.js] info: Cache stdTTL: 0
+2024-11-28T01:09:12.384Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:09:12.387Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:09:12.387Z [index.js] info: Cache stdTTL: 0
+2024-11-28T01:09:15.579Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:09:15.583Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:09:15.583Z [index.js] info: Cache stdTTL: 0
+2024-11-28T01:09:30.247Z [index.js] error: Invalid API token.
+2024-11-28T01:09:30.249Z [index.js] error: API Token: undefined
+2024-11-28T01:10:06.151Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:10:06.154Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:10:06.154Z [index.js] info: Cache stdTTL: 0
+2024-11-28T01:10:09.628Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:10:09.631Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:10:09.632Z [index.js] info: Cache stdTTL: 0
+2024-11-28T01:10:15.096Z [index.js] error: Invalid API token.
+2024-11-28T01:10:15.099Z [index.js] error: API Token: undefined
+2024-11-28T01:15:00.718Z [index.js] error: Invalid API token.
+2024-11-28T01:15:00.719Z [index.js] error: API Token: undefined
+2024-11-28T01:15:11.091Z [index.js] error: Invalid API token.
+2024-11-28T01:15:11.093Z [index.js] error: API Token: undefined
+2024-11-28T01:15:30.967Z [index.js] error: Invalid API token.
+2024-11-28T01:15:30.969Z [index.js] error: API Token: undefined
+2024-11-28T01:45:10.980Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:45:10.984Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:45:10.984Z [index.js] info: Cache stdTTL: 0
+2024-11-28T01:46:54.139Z [index.js] error: Invalid API token.
+2024-11-28T01:46:54.141Z [index.js] error: API Token: undefined
+2024-11-28T01:47:39.940Z [index.js] error: Invalid API token.
+2024-11-28T01:47:39.942Z [index.js] error: API Token: undefined
+2024-11-28T01:52:00.856Z [index.js] info: Server is running on Port: 3000
+2024-11-28T01:52:00.859Z [index.js] info: Cache checkperiod: 600
+2024-11-28T01:52:00.859Z [index.js] info: Cache stdTTL: 0
+2024-11-28T02:15:09.629Z [index.js] error: Invalid API token.
+2024-11-28T02:15:09.632Z [index.js] error: API Token: undefined
+2024-11-28T02:15:29.999Z [index.js] error: Invalid API token.
+2024-11-28T02:15:30.000Z [index.js] error: API Token: undefined
+2024-11-28T02:16:13.725Z [index.js] error: Invalid API token.
+2024-11-28T02:16:13.727Z [index.js] error: API Token: undefined
+2024-11-28T02:16:41.478Z [index.js] error: Invalid API token.
+2024-11-28T02:16:41.480Z [index.js] error: API Token: undefined
+2024-11-28T02:16:54.220Z [index.js] error: Invalid API token.
+2024-11-28T02:16:54.221Z [index.js] error: API Token: undefined
+2024-11-28T02:17:49.608Z [index.js] info: Server is running on Port: 3000
+2024-11-28T02:17:49.611Z [index.js] info: Cache checkperiod: 600
+2024-11-28T02:17:49.612Z [index.js] info: Cache stdTTL: 0
+2024-11-28T02:18:29.936Z [index.js] error: Invalid API token.
+2024-11-28T02:18:29.942Z [index.js] error: API Token: undefined
+2024-11-28T02:24:40.932Z [index.js] error: Invalid API token.
+2024-11-28T02:24:40.934Z [index.js] error: API Token: undefined
+2024-11-28T02:24:56.667Z [index.js] error: Invalid API token.
+2024-11-28T02:24:56.669Z [index.js] error: API Token: undefined
+2024-11-28T02:25:52.259Z [index.js] info: Server is running on Port: 3000
+2024-11-28T02:25:52.263Z [index.js] info: Cache checkperiod: 600
+2024-11-28T02:25:52.264Z [index.js] info: Cache stdTTL: 0
+2024-11-28T02:25:54.442Z [index.js] info: Server is running on Port: 3000
+2024-11-28T02:25:54.445Z [index.js] info: Cache checkperiod: 600
+2024-11-28T02:25:54.445Z [index.js] info: Cache stdTTL: 0
+2024-11-28T02:25:56.839Z [index.js] info: Server is running on Port: 3000
+2024-11-28T02:25:56.842Z [index.js] info: Cache checkperiod: 600
+2024-11-28T02:25:56.842Z [index.js] info: Cache stdTTL: 0
+2024-11-28T02:26:35.362Z [index.js] error: Invalid API token.
+2024-11-28T02:27:23.346Z [index.js] info: Server is running on Port: 3000
+2024-11-28T02:27:23.349Z [index.js] info: Cache checkperiod: 600
+2024-11-28T02:27:23.350Z [index.js] info: Cache stdTTL: 0
+2024-11-28T02:27:24.405Z [index.js] info: Server is running on Port: 3000
+2024-11-28T02:27:24.409Z [index.js] info: Cache checkperiod: 600
+2024-11-28T02:27:24.409Z [index.js] info: Cache stdTTL: 0
+2024-11-28T02:35:04.082Z [index.js] error: Invalid API token.
+2024-11-28T02:35:04.084Z [index.js] error: API Token: undefined
+2024-11-28T02:35:12.839Z [index.js] error: Invalid API token.
+2024-11-28T02:35:12.840Z [index.js] error: API Token: undefined
+2024-11-28T02:37:10.721Z [index.js] info: Server is running on Port: 3000
+2024-11-28T02:37:10.725Z [index.js] info: Cache checkperiod: 600
+2024-11-28T02:37:10.725Z [index.js] info: Cache stdTTL: 0
+2024-11-28T02:38:20.840Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-28T02:38:20.849Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf
+2024-11-28T02:38:20.850Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf, fetching gameData now.
+2024-11-28T02:38:21.414Z [index.js] info: GameData fetched and cached for IrascibleNiftyResplendentWolf
+2024-11-28T02:42:11.503Z [index.js] info: Server is running on Port: 3000
+2024-11-28T02:42:11.506Z [index.js] info: Cache checkperiod: 600
+2024-11-28T02:42:11.507Z [index.js] info: Cache stdTTL: 0
+2024-11-28T02:42:22.392Z [index.js] info: Fetching game data for game ID: AngryViolentLungingFail
+2024-11-28T02:42:22.399Z [index.js] info: CachedGameData not found for AngryViolentLungingFail
+2024-11-28T02:42:22.400Z [index.js] info: CachedGameData not found for AngryViolentLungingFail, fetching gameData now.
+2024-11-28T02:42:23.578Z [index.js] info: GameData fetched and cached for AngryViolentLungingFail
+2024-11-28T02:44:19.016Z [index.js] info: Server is running on Port: 3000
+2024-11-28T02:44:19.019Z [index.js] info: Cache checkperiod: 600
+2024-11-28T02:44:19.019Z [index.js] info: Cache stdTTL: 0
+2024-11-28T02:44:27.803Z [index.js] info: Server is running on Port: 3000
+2024-11-28T02:44:27.806Z [index.js] info: Cache checkperiod: 600
+2024-11-28T02:44:27.806Z [index.js] info: Cache stdTTL: 0
+2024-11-28T02:44:39.129Z [index.js] error: Invalid API token.
+2024-11-28T02:44:39.131Z [index.js] error: API Token: undefined
+2024-11-28T02:45:01.164Z [index.js] error: Invalid API token.
+2024-11-28T02:45:01.164Z [index.js] error: API Token: undefined
+2024-11-28T02:46:34.039Z [index.js] error: Invalid API token.
+2024-11-28T02:46:34.041Z [index.js] error: API Token: undefined
+2024-11-28T02:48:47.429Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-28T02:48:47.444Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf
+2024-11-28T02:48:47.444Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf, fetching gameData now.
+2024-11-28T02:48:48.131Z [index.js] info: GameData fetched and cached for IrascibleNiftyResplendentWolf
+2024-11-28T03:02:25.713Z [index.js] info: Server is running on Port: 3000
+2024-11-28T03:02:25.716Z [index.js] info: Cache checkperiod: 600
+2024-11-28T03:02:25.716Z [index.js] info: Cache stdTTL: 0
+2024-11-28T03:02:49.651Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-28T03:02:49.663Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf
+2024-11-28T03:02:49.665Z [index.js] info: CachedGameData not found for IrascibleNiftyResplendentWolf, fetching gameData now.
+2024-11-28T03:02:51.336Z [index.js] info: GameData fetched and cached for IrascibleNiftyResplendentWolf
+2024-11-28T03:02:55.921Z [index.js] error: Invalid API token.
+2024-11-28T03:02:55.922Z [index.js] error: API Token: undefined
+2024-11-28T03:34:06.317Z [index.js] error: Invalid API token.
+2024-11-28T03:34:06.319Z [index.js] error: API Token: undefined
+2024-11-28T03:34:09.021Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-28T03:34:09.023Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-28T03:34:09.024Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-28T03:36:39.231Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-28T03:36:39.234Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-28T03:36:39.235Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-28T03:36:42.273Z [index.js] error: Invalid API token.
+2024-11-28T03:36:42.274Z [index.js] error: API Token: undefined
+2024-11-28T03:36:45.361Z [index.js] error: Invalid API token.
+2024-11-28T03:36:45.363Z [index.js] error: API Token: undefined
+2024-11-28T04:04:22.596Z [index.js] error: Invalid API token.
+2024-11-28T04:04:22.597Z [index.js] error: API Token: undefined
+2024-11-28T04:04:31.803Z [index.js] info: Fetching game data for game ID: IrascibleNiftyResplendentWolf
+2024-11-28T04:04:31.806Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-28T04:04:31.807Z [index.js] info: CachedGameData found IrascibleNiftyResplendentWolf
+2024-11-28T04:05:33.783Z [index.js] error: Invalid API token.
+2024-11-28T04:05:33.783Z [index.js] error: API Token: undefined
+2024-11-28T04:05:37.063Z [index.js] error: Invalid API token.
+2024-11-28T04:05:37.065Z [index.js] error: API Token: undefined
+2024-11-28T13:52:51.361Z [index.js] error: Invalid API token.
+2024-11-28T13:52:51.363Z [index.js] error: API Token: undefined
